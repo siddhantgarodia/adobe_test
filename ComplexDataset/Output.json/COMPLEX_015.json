@@ -1,0 +1,590 @@
+{
+    "title": "Engineering Manual: Biomedical Devices - Design, Implementation, and Maintenance Protocols",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "PREFACE",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Purpose and Scope",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Revision History",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Acknowledgments",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "1. GENERAL REQUIREMENTS",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Regulatory Framework",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "1.1.1 International Standards",
+            "page": 4
+        },
+        {
+            "level": "H4",
+            "text": "1.1.1.1 ISO Standards",
+            "page": 4
+        },
+        {
+            "level": "H4",
+            "text": "1.1.1.2 IEC Requirements",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "1.1.2 National Regulations",
+            "page": 5
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.1 Federal Requirements",
+            "page": 5
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.2 State Regulations",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Safety Requirements",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "1.2.1 Hazard Analysis",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.1 Risk Assessment",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.2 Failure Mode Analysis",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "1.2.2 Safety Systems",
+            "page": 7
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.1 Primary Safety Systems",
+            "page": 7
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.2 Backup Systems",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "2. SYSTEM ARCHITECTURE",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "2.1 System Overview",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "2.1.1 Functional Architecture",
+            "page": 8
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.1 Core Functions",
+            "page": 8
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.2 Supporting Functions",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "2.1.2 Physical Architecture",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.1 Major Components",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.2 Interface Definitions",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Subsystem Design",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "2.2.1 Control Systems",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "2.2.1.1 Primary Control",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "2.2.1.2 Secondary Control",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "2.2.2 Power Systems",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.1 Power Generation",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.2 Power Distribution",
+            "page": 11
+        },
+        {
+            "level": "H3",
+            "text": "2.2.3 Communication Systems",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "2.2.3.1 Internal Communication",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "2.2.3.2 External Interfaces",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "3. DESIGN SPECIFICATIONS",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Performance Requirements",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "3.1.1 Operational Parameters",
+            "page": 13
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.1 Normal Operating Conditions",
+            "page": 14
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.2 Emergency Operations",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "3.1.2 Environmental Conditions",
+            "page": 14
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.1 Temperature Range",
+            "page": 14
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.2 Humidity Requirements",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Material Specifications",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "3.2.1 Primary Materials",
+            "page": 15
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.1 Structural Materials",
+            "page": 15
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.2 Electronic Components",
+            "page": 16
+        },
+        {
+            "level": "H3",
+            "text": "3.2.2 Material Testing",
+            "page": 16
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.1 Quality Assurance",
+            "page": 16
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.2 Reliability Testing",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "4. MANUFACTURING PROCESSES",
+            "page": 17
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Production Planning",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "4.1.1 Manufacturing Sequence",
+            "page": 18
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.1 Fabrication Steps",
+            "page": 18
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.2 Assembly Procedures",
+            "page": 19
+        },
+        {
+            "level": "H3",
+            "text": "4.1.2 Quality Control",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.1 In-Process Inspection",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.2 Final Testing",
+            "page": 19
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Tooling and Equipment",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "4.2.1 Specialized Tools",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "4.2.2 Test Equipment",
+            "page": 20
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.1 Measurement Devices",
+            "page": 20
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.2 Calibration Procedures",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "5. INSTALLATION AND COMMISSIONING",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Site Preparation",
+            "page": 23
+        },
+        {
+            "level": "H3",
+            "text": "5.1.1 Infrastructure Requirements",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.1 Foundation Specifications",
+            "page": 24
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.2 Utility Connections",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "5.1.2 Environmental Considerations",
+            "page": 24
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.1 Site Survey",
+            "page": 24
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.2 Environmental Impact",
+            "page": 25
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Installation Procedures",
+            "page": 25
+        },
+        {
+            "level": "H3",
+            "text": "5.2.1 Component Installation",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.1 Mechanical Installation",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.2 Electrical Installation",
+            "page": 26
+        },
+        {
+            "level": "H3",
+            "text": "5.2.2 System Integration",
+            "page": 26
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.1 Interface Testing",
+            "page": 26
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.2 Performance Verification",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "6. OPERATION AND MAINTENANCE",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Operating Procedures",
+            "page": 28
+        },
+        {
+            "level": "H3",
+            "text": "6.1.1 Startup Procedures",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "6.1.1.1 Pre-start Checks",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "6.1.1.2 Initialization Sequence",
+            "page": 29
+        },
+        {
+            "level": "H3",
+            "text": "6.1.2 Normal Operations",
+            "page": 29
+        },
+        {
+            "level": "H4",
+            "text": "6.1.2.1 Routine Operations",
+            "page": 29
+        },
+        {
+            "level": "H4",
+            "text": "6.1.2.2 Performance Monitoring",
+            "page": 29
+        },
+        {
+            "level": "H3",
+            "text": "6.1.3 Shutdown Procedures",
+            "page": 30
+        },
+        {
+            "level": "H4",
+            "text": "6.1.3.1 Normal Shutdown",
+            "page": 30
+        },
+        {
+            "level": "H4",
+            "text": "6.1.3.2 Emergency Shutdown",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Maintenance Program",
+            "page": 30
+        },
+        {
+            "level": "H3",
+            "text": "6.2.1 Preventive Maintenance",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "6.2.1.1 Scheduled Maintenance",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "6.2.1.2 Condition-Based Maintenance",
+            "page": 31
+        },
+        {
+            "level": "H3",
+            "text": "6.2.2 Corrective Maintenance",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "6.2.2.1 Fault Diagnosis",
+            "page": 32
+        },
+        {
+            "level": "H4",
+            "text": "6.2.2.2 Repair Procedures",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "7. TROUBLESHOOTING",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "7.1 Diagnostic Procedures",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "7.1.1 System Diagnostics",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "7.1.1.1 Built-in Test Equipment",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "7.1.1.2 External Test Procedures",
+            "page": 35
+        },
+        {
+            "level": "H3",
+            "text": "7.1.2 Component Testing",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "7.1.2.1 Individual Component Tests",
+            "page": 36
+        },
+        {
+            "level": "H4",
+            "text": "7.1.2.2 Interface Testing",
+            "page": 36
+        },
+        {
+            "level": "H2",
+            "text": "7.2 Common Problems",
+            "page": 36
+        },
+        {
+            "level": "H3",
+            "text": "7.2.1 Operational Issues",
+            "page": 36
+        },
+        {
+            "level": "H3",
+            "text": "7.2.2 Performance Degradation",
+            "page": 37
+        },
+        {
+            "level": "H4",
+            "text": "7.2.2.1 Root Cause Analysis",
+            "page": 37
+        },
+        {
+            "level": "H4",
+            "text": "7.2.2.2 Corrective Actions",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "APPENDICES",
+            "page": 37
+        },
+        {
+            "level": "H2",
+            "text": "Appendix A: Technical Drawings",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Appendix B: Parts Lists",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Appendix C: Test Procedures",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Appendix D: Safety Data Sheets",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "Appendix E: Regulatory Compliance Matrix",
+            "page": 40
+        }
+    ]
+}

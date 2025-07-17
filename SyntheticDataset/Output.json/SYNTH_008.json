@@ -1,0 +1,115 @@
+{
+    "title": "User Manual: Mobile App v1.0",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Getting Started",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "System Requirements",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Installation Guide",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Windows Installation",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Mac Installation",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Linux Installation",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Basic Operations",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "User Interface Overview",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Navigation",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Menu System",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Keyboard Shortcuts",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Features",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Core Functionality",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Data Management",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Report Generation",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Advanced Features",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Customization",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Integration",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Troubleshooting",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Common Issues",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Error Messages",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Support",
+            "page": 8
+        }
+    ]
+}

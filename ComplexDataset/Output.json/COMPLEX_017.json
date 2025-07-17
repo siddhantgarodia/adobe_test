@@ -1,0 +1,595 @@
+{
+    "title": "Federal Regulation: Environmental Protection - Comprehensive Regulatory Framework and Implementation Guidelines",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "PREAMBLE",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Authority and Purpose",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Effective Date",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Public Comment Summary",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "PART I: GENERAL PROVISIONS",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Section 101: Scope and Application",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "101.1 Covered Entities",
+            "page": 5
+        },
+        {
+            "level": "H4",
+            "text": "101.1.1 Primary Regulated Entities",
+            "page": 5
+        },
+        {
+            "level": "H4",
+            "text": "101.1.2 Subsidiary Entities",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "101.2 Geographic Scope",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "101.2.1 Federal Jurisdiction",
+            "page": 7
+        },
+        {
+            "level": "H4",
+            "text": "101.2.2 State Coordination",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Section 102: Definitions",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "102.1 General Definitions",
+            "page": 8
+        },
+        {
+            "level": "H4",
+            "text": "102.1.1 Regulatory Terms",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "102.1.2 Technical Terms",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "102.2 Specialized Definitions",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "102.2.1 Industry-Specific Terms",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "102.2.2 Legal Terms",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "Section 103: Regulatory Framework",
+            "page": 11
+        },
+        {
+            "level": "H3",
+            "text": "103.1 Compliance Structure",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "103.1.1 Mandatory Requirements",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "103.1.2 Voluntary Standards",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "103.2 Implementation Timeline",
+            "page": 13
+        },
+        {
+            "level": "H4",
+            "text": "103.2.1 Phase-in Schedule",
+            "page": 14
+        },
+        {
+            "level": "H4",
+            "text": "103.2.2 Transition Provisions",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "PART II: SUBSTANTIVE REQUIREMENTS",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "Section 201: Core Requirements",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "201.1 Primary Obligations",
+            "page": 18
+        },
+        {
+            "level": "H4",
+            "text": "201.1.1 Minimum Standards",
+            "page": 18
+        },
+        {
+            "level": "H4",
+            "text": "201.1.2 Performance Metrics",
+            "page": 19
+        },
+        {
+            "level": "H3",
+            "text": "201.2 Specific Requirements",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "201.2.1 Operational Requirements",
+            "page": 20
+        },
+        {
+            "level": "H4",
+            "text": "201.2.2 Reporting Requirements",
+            "page": 20
+        },
+        {
+            "level": "H2",
+            "text": "Section 202: Compliance Standards",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "202.1 Measurement Criteria",
+            "page": 21
+        },
+        {
+            "level": "H4",
+            "text": "202.1.1 Quantitative Standards",
+            "page": 22
+        },
+        {
+            "level": "H4",
+            "text": "202.1.2 Qualitative Standards",
+            "page": 22
+        },
+        {
+            "level": "H3",
+            "text": "202.2 Assessment Methods",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "202.2.1 Self-Assessment",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "202.2.2 Third-Party Evaluation",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Section 203: Risk Management",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "203.1 Risk Assessment",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "203.1.1 Risk Identification",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "203.1.2 Risk Quantification",
+            "page": 26
+        },
+        {
+            "level": "H3",
+            "text": "203.2 Risk Mitigation",
+            "page": 26
+        },
+        {
+            "level": "H4",
+            "text": "203.2.1 Preventive Measures",
+            "page": 27
+        },
+        {
+            "level": "H4",
+            "text": "203.2.2 Corrective Actions",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "PART III: ADMINISTRATIVE PROCEDURES",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "Section 301: Registration and Licensing",
+            "page": 30
+        },
+        {
+            "level": "H3",
+            "text": "301.1 Application Process",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "301.1.1 Initial Applications",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "301.1.2 Renewal Applications",
+            "page": 32
+        },
+        {
+            "level": "H3",
+            "text": "301.2 Review Procedures",
+            "page": 32
+        },
+        {
+            "level": "H4",
+            "text": "301.2.1 Administrative Review",
+            "page": 33
+        },
+        {
+            "level": "H4",
+            "text": "301.2.2 Technical Evaluation",
+            "page": 33
+        },
+        {
+            "level": "H2",
+            "text": "Section 302: Monitoring and Inspection",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "302.1 Inspection Authority",
+            "page": 34
+        },
+        {
+            "level": "H4",
+            "text": "302.1.1 Routine Inspections",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "302.1.2 Special Investigations",
+            "page": 35
+        },
+        {
+            "level": "H3",
+            "text": "302.2 Compliance Monitoring",
+            "page": 36
+        },
+        {
+            "level": "H4",
+            "text": "302.2.1 Continuous Monitoring",
+            "page": 36
+        },
+        {
+            "level": "H4",
+            "text": "302.2.2 Periodic Reviews",
+            "page": 37
+        },
+        {
+            "level": "H2",
+            "text": "Section 303: Reporting Requirements",
+            "page": 37
+        },
+        {
+            "level": "H3",
+            "text": "303.1 Regular Reports",
+            "page": 38
+        },
+        {
+            "level": "H4",
+            "text": "303.1.1 Annual Reports",
+            "page": 38
+        },
+        {
+            "level": "H4",
+            "text": "303.1.2 Quarterly Reports",
+            "page": 39
+        },
+        {
+            "level": "H3",
+            "text": "303.2 Special Reports",
+            "page": 39
+        },
+        {
+            "level": "H4",
+            "text": "303.2.1 Incident Reports",
+            "page": 40
+        },
+        {
+            "level": "H4",
+            "text": "303.2.2 Material Changes",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "PART IV: ENFORCEMENT",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Section 401: Violation Categories",
+            "page": 42
+        },
+        {
+            "level": "H3",
+            "text": "401.1 Minor Violations",
+            "page": 43
+        },
+        {
+            "level": "H4",
+            "text": "401.1.1 Technical Violations",
+            "page": 43
+        },
+        {
+            "level": "H4",
+            "text": "401.1.2 Procedural Violations",
+            "page": 44
+        },
+        {
+            "level": "H3",
+            "text": "401.2 Major Violations",
+            "page": 44
+        },
+        {
+            "level": "H4",
+            "text": "401.2.1 Substantive Violations",
+            "page": 45
+        },
+        {
+            "level": "H4",
+            "text": "401.2.2 Willful Violations",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Section 402: Enforcement Actions",
+            "page": 46
+        },
+        {
+            "level": "H3",
+            "text": "402.1 Administrative Actions",
+            "page": 46
+        },
+        {
+            "level": "H4",
+            "text": "402.1.1 Warning Letters",
+            "page": 47
+        },
+        {
+            "level": "H4",
+            "text": "402.1.2 Cease and Desist Orders",
+            "page": 47
+        },
+        {
+            "level": "H3",
+            "text": "402.2 Civil Penalties",
+            "page": 48
+        },
+        {
+            "level": "H4",
+            "text": "402.2.1 Monetary Penalties",
+            "page": 48
+        },
+        {
+            "level": "H4",
+            "text": "402.2.2 License Suspension",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Section 403: Appeal Procedures",
+            "page": 49
+        },
+        {
+            "level": "H3",
+            "text": "403.1 Administrative Appeals",
+            "page": 50
+        },
+        {
+            "level": "H4",
+            "text": "403.1.1 Internal Review",
+            "page": 50
+        },
+        {
+            "level": "H4",
+            "text": "403.1.2 Hearing Procedures",
+            "page": 51
+        },
+        {
+            "level": "H3",
+            "text": "403.2 Judicial Review",
+            "page": 51
+        },
+        {
+            "level": "H4",
+            "text": "403.2.1 Federal Court Jurisdiction",
+            "page": 52
+        },
+        {
+            "level": "H4",
+            "text": "403.2.2 Standard of Review",
+            "page": 52
+        },
+        {
+            "level": "H1",
+            "text": "PART V: IMPLEMENTATION",
+            "page": 53
+        },
+        {
+            "level": "H2",
+            "text": "Section 501: Effective Dates",
+            "page": 54
+        },
+        {
+            "level": "H3",
+            "text": "501.1 General Effective Date",
+            "page": 55
+        },
+        {
+            "level": "H3",
+            "text": "501.2 Phased Implementation",
+            "page": 55
+        },
+        {
+            "level": "H4",
+            "text": "501.2.1 Phase I Requirements",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "501.2.2 Phase II Requirements",
+            "page": 56
+        },
+        {
+            "level": "H2",
+            "text": "Section 502: Transition Provisions",
+            "page": 57
+        },
+        {
+            "level": "H3",
+            "text": "502.1 Grandfathering",
+            "page": 57
+        },
+        {
+            "level": "H4",
+            "text": "502.1.1 Existing Operations",
+            "page": 58
+        },
+        {
+            "level": "H4",
+            "text": "502.1.2 Pending Applications",
+            "page": 58
+        },
+        {
+            "level": "H3",
+            "text": "502.2 Safe Harbor Provisions",
+            "page": 59
+        },
+        {
+            "level": "H4",
+            "text": "502.2.1 Good Faith Compliance",
+            "page": 59
+        },
+        {
+            "level": "H4",
+            "text": "502.2.2 Interim Measures",
+            "page": 60
+        },
+        {
+            "level": "H2",
+            "text": "Section 503: Technical Assistance",
+            "page": 60
+        },
+        {
+            "level": "H3",
+            "text": "503.1 Guidance Documents",
+            "page": 61
+        },
+        {
+            "level": "H4",
+            "text": "503.1.1 Implementation Guidance",
+            "page": 61
+        },
+        {
+            "level": "H4",
+            "text": "503.1.2 Frequently Asked Questions",
+            "page": 62
+        },
+        {
+            "level": "H3",
+            "text": "503.2 Training Programs",
+            "page": 62
+        },
+        {
+            "level": "H4",
+            "text": "503.2.1 Industry Training",
+            "page": 63
+        },
+        {
+            "level": "H4",
+            "text": "503.2.2 Regulatory Training",
+            "page": 63
+        },
+        {
+            "level": "H1",
+            "text": "APPENDICES",
+            "page": 64
+        },
+        {
+            "level": "H2",
+            "text": "Appendix A: Statutory Authority",
+            "page": 65
+        },
+        {
+            "level": "H2",
+            "text": "Appendix B: Economic Impact Analysis",
+            "page": 66
+        },
+        {
+            "level": "H2",
+            "text": "Appendix C: Technical Standards",
+            "page": 66
+        },
+        {
+            "level": "H2",
+            "text": "Appendix D: Forms and Templates",
+            "page": 67
+        },
+        {
+            "level": "H2",
+            "text": "Appendix E: Contact Information",
+            "page": 67
+        }
+    ]
+}

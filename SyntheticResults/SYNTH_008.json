@@ -1,0 +1,75 @@
+{
+    "title": "User Manual: Mobile App v1.0",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "User Manual: Mobile App v1.0",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Getting Started",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "System Requirements",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Installation Guide",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Basic Operations",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "User Interface Overview",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Navigation",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Features",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Core Functionality",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Advanced Features",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Troubleshooting",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Common Issues",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Error Messages",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Support",
+            "page": 7
+        }
+    ]
+}

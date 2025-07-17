@@ -1,0 +1,70 @@
+{
+    "title": "Implementation Guide: Docker Framework",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Implementation Guide: Docker Framework",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Executive Summary",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Introduction",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Problem Statement",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Objectives",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Technical Architecture",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "System Overview",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Implementation Details",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Results and Analysis",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Performance Metrics",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Quality Assessment",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Conclusion",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "References",
+            "page": 4
+        }
+    ]
+}

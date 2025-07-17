@@ -1,0 +1,140 @@
+{
+    "title": "Project Plan: Marketing Campaign Implementation",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Project Overview",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Objectives",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Deliverables",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Project Scope",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Inclusions",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Exclusions",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Project Team",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Roles and Responsibilities",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Project Manager",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Technical Lead",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Development Team",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Timeline",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Phase 1: Initiation",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Requirements Gathering",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Resource Allocation",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Phase 2: Planning",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Design",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Architecture",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Phase 3: Execution",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "Development",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "Testing",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Phase 4: Closure",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Risk Management",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Risk Assessment",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Mitigation Strategies",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Budget",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Quality Assurance",
+            "page": 7
+        }
+    ]
+}

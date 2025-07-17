@@ -1,0 +1,885 @@
+{
+    "title": "Technology Corporation Employee Handbook: Comprehensive Policies and Procedures Manual",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "WELCOME MESSAGE",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "CEO Letter",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Company Mission and Values",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "How to Use This Handbook",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "1. COMPANY OVERVIEW",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Company History",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "1.1.1 Founding and Early Years",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "1.1.2 Growth and Development",
+            "page": 5
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.1 Major Milestones",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.2 Strategic Acquisitions",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Organizational Structure",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "1.2.1 Corporate Governance",
+            "page": 7
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.1 Board of Directors",
+            "page": 8
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.2 Executive Leadership",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "1.2.2 Business Units",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.1 Operating Divisions",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.2 Support Functions",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "1.3 Corporate Culture",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "1.3.1 Core Values",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "1.3.1.1 Integrity",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "1.3.1.2 Innovation",
+            "page": 12
+        },
+        {
+            "level": "H4",
+            "text": "1.3.1.3 Collaboration",
+            "page": 12
+        },
+        {
+            "level": "H3",
+            "text": "1.3.2 Cultural Initiatives",
+            "page": 13
+        },
+        {
+            "level": "H4",
+            "text": "1.3.2.1 Diversity and Inclusion",
+            "page": 13
+        },
+        {
+            "level": "H4",
+            "text": "1.3.2.2 Employee Engagement",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "2. EMPLOYMENT POLICIES",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Equal Employment Opportunity",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "2.1.1 Non-Discrimination Policy",
+            "page": 15
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.1 Protected Characteristics",
+            "page": 16
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.2 Complaint Procedures",
+            "page": 16
+        },
+        {
+            "level": "H3",
+            "text": "2.1.2 Harassment Prevention",
+            "page": 17
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.1 Sexual Harassment",
+            "page": 17
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.2 Workplace Bullying",
+            "page": 18
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Recruitment and Selection",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "2.2.1 Hiring Process",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "2.2.1.1 Job Posting Requirements",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "2.2.1.2 Selection Criteria",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "2.2.2 Background Checks",
+            "page": 20
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.1 Criminal Background",
+            "page": 21
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.2 Reference Verification",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "2.3 Classification and Status",
+            "page": 22
+        },
+        {
+            "level": "H3",
+            "text": "2.3.1 Employee Categories",
+            "page": 22
+        },
+        {
+            "level": "H4",
+            "text": "2.3.1.1 Full-Time Employees",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "2.3.1.2 Part-Time Employees",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "2.3.1.3 Contract Workers",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "2.3.2 Employment Status",
+            "page": 24
+        },
+        {
+            "level": "H4",
+            "text": "2.3.2.1 Probationary Period",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "2.3.2.2 Regular Employment",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "3. COMPENSATION AND BENEFITS",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Compensation Structure",
+            "page": 27
+        },
+        {
+            "level": "H3",
+            "text": "3.1.1 Base Salary",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.1 Salary Grades",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.2 Merit Increases",
+            "page": 29
+        },
+        {
+            "level": "H3",
+            "text": "3.1.2 Variable Compensation",
+            "page": 29
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.1 Performance Bonuses",
+            "page": 30
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.2 Commission Plans",
+            "page": 30
+        },
+        {
+            "level": "H3",
+            "text": "3.1.3 Equity Compensation",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "3.1.3.1 Stock Options",
+            "page": 31
+        },
+        {
+            "level": "H4",
+            "text": "3.1.3.2 Restricted Stock",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Employee Benefits",
+            "page": 32
+        },
+        {
+            "level": "H3",
+            "text": "3.2.1 Health and Wellness",
+            "page": 33
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.1 Medical Insurance",
+            "page": 33
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.2 Dental and Vision",
+            "page": 34
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.3 Wellness Programs",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "3.2.2 Retirement Benefits",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.1 401(k) Plan",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.2 Pension Plans",
+            "page": 36
+        },
+        {
+            "level": "H3",
+            "text": "3.2.3 Time Off Benefits",
+            "page": 36
+        },
+        {
+            "level": "H4",
+            "text": "3.2.3.1 Vacation Leave",
+            "page": 37
+        },
+        {
+            "level": "H4",
+            "text": "3.2.3.2 Sick Leave",
+            "page": 37
+        },
+        {
+            "level": "H4",
+            "text": "3.2.3.3 Personal Days",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "4. WORKPLACE POLICIES",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Work Environment",
+            "page": 40
+        },
+        {
+            "level": "H3",
+            "text": "4.1.1 Workplace Safety",
+            "page": 40
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.1 Safety Procedures",
+            "page": 41
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.2 Incident Reporting",
+            "page": 41
+        },
+        {
+            "level": "H3",
+            "text": "4.1.2 Security Policies",
+            "page": 42
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.1 Access Control",
+            "page": 42
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.2 Visitor Management",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Technology and Communication",
+            "page": 43
+        },
+        {
+            "level": "H3",
+            "text": "4.2.1 IT Policies",
+            "page": 44
+        },
+        {
+            "level": "H4",
+            "text": "4.2.1.1 Acceptable Use",
+            "page": 44
+        },
+        {
+            "level": "H4",
+            "text": "4.2.1.2 Data Security",
+            "page": 45
+        },
+        {
+            "level": "H3",
+            "text": "4.2.2 Communication Standards",
+            "page": 45
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.1 Email Guidelines",
+            "page": 46
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.2 Social Media Policy",
+            "page": 46
+        },
+        {
+            "level": "H2",
+            "text": "4.3 Conduct and Ethics",
+            "page": 47
+        },
+        {
+            "level": "H3",
+            "text": "4.3.1 Code of Conduct",
+            "page": 47
+        },
+        {
+            "level": "H4",
+            "text": "4.3.1.1 Professional Behavior",
+            "page": 48
+        },
+        {
+            "level": "H4",
+            "text": "4.3.1.2 Conflicts of Interest",
+            "page": 48
+        },
+        {
+            "level": "H3",
+            "text": "4.3.2 Compliance Requirements",
+            "page": 49
+        },
+        {
+            "level": "H4",
+            "text": "4.3.2.1 Regulatory Compliance",
+            "page": 49
+        },
+        {
+            "level": "H4",
+            "text": "4.3.2.2 Reporting Violations",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "5. PERFORMANCE MANAGEMENT",
+            "page": 50
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Performance Expectations",
+            "page": 52
+        },
+        {
+            "level": "H3",
+            "text": "5.1.1 Job Responsibilities",
+            "page": 52
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.1 Core Competencies",
+            "page": 53
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.2 Performance Standards",
+            "page": 53
+        },
+        {
+            "level": "H3",
+            "text": "5.1.2 Goal Setting",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.1 Individual Goals",
+            "page": 54
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.2 Team Objectives",
+            "page": 55
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Performance Evaluation",
+            "page": 55
+        },
+        {
+            "level": "H3",
+            "text": "5.2.1 Review Process",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.1 Annual Reviews",
+            "page": 56
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.2 Interim Reviews",
+            "page": 57
+        },
+        {
+            "level": "H3",
+            "text": "5.2.2 Performance Improvement",
+            "page": 57
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.1 Development Plans",
+            "page": 58
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.2 Training Opportunities",
+            "page": 58
+        },
+        {
+            "level": "H1",
+            "text": "6. PROFESSIONAL DEVELOPMENT",
+            "page": 59
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Learning and Development",
+            "page": 60
+        },
+        {
+            "level": "H3",
+            "text": "6.1.1 Training Programs",
+            "page": 61
+        },
+        {
+            "level": "H4",
+            "text": "6.1.1.1 Orientation Training",
+            "page": 61
+        },
+        {
+            "level": "H4",
+            "text": "6.1.1.2 Skills Development",
+            "page": 62
+        },
+        {
+            "level": "H3",
+            "text": "6.1.2 Educational Support",
+            "page": 62
+        },
+        {
+            "level": "H4",
+            "text": "6.1.2.1 Tuition Reimbursement",
+            "page": 63
+        },
+        {
+            "level": "H4",
+            "text": "6.1.2.2 Professional Certifications",
+            "page": 63
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Career Advancement",
+            "page": 64
+        },
+        {
+            "level": "H3",
+            "text": "6.2.1 Promotion Opportunities",
+            "page": 64
+        },
+        {
+            "level": "H4",
+            "text": "6.2.1.1 Internal Mobility",
+            "page": 65
+        },
+        {
+            "level": "H4",
+            "text": "6.2.1.2 Succession Planning",
+            "page": 65
+        },
+        {
+            "level": "H3",
+            "text": "6.2.2 Mentoring Programs",
+            "page": 66
+        },
+        {
+            "level": "H4",
+            "text": "6.2.2.1 Formal Mentoring",
+            "page": 66
+        },
+        {
+            "level": "H4",
+            "text": "6.2.2.2 Peer Mentoring",
+            "page": 67
+        },
+        {
+            "level": "H1",
+            "text": "7. LEAVE POLICIES",
+            "page": 67
+        },
+        {
+            "level": "H2",
+            "text": "7.1 Paid Leave",
+            "page": 69
+        },
+        {
+            "level": "H3",
+            "text": "7.1.1 Vacation Leave",
+            "page": 69
+        },
+        {
+            "level": "H4",
+            "text": "7.1.1.1 Accrual Rates",
+            "page": 70
+        },
+        {
+            "level": "H4",
+            "text": "7.1.1.2 Usage Guidelines",
+            "page": 70
+        },
+        {
+            "level": "H3",
+            "text": "7.1.2 Holiday Leave",
+            "page": 71
+        },
+        {
+            "level": "H4",
+            "text": "7.1.2.1 Company Holidays",
+            "page": 71
+        },
+        {
+            "level": "H4",
+            "text": "7.1.2.2 Floating Holidays",
+            "page": 72
+        },
+        {
+            "level": "H2",
+            "text": "7.2 Unpaid Leave",
+            "page": 72
+        },
+        {
+            "level": "H3",
+            "text": "7.2.1 Family and Medical Leave",
+            "page": 73
+        },
+        {
+            "level": "H4",
+            "text": "7.2.1.1 FMLA Requirements",
+            "page": 73
+        },
+        {
+            "level": "H4",
+            "text": "7.2.1.2 State Leave Laws",
+            "page": 74
+        },
+        {
+            "level": "H3",
+            "text": "7.2.2 Personal Leave",
+            "page": 74
+        },
+        {
+            "level": "H4",
+            "text": "7.2.2.1 Extended Leave",
+            "page": 75
+        },
+        {
+            "level": "H4",
+            "text": "7.2.2.2 Military Leave",
+            "page": 75
+        },
+        {
+            "level": "H1",
+            "text": "8. DISCIPLINARY PROCEDURES",
+            "page": 76
+        },
+        {
+            "level": "H2",
+            "text": "8.1 Progressive Discipline",
+            "page": 78
+        },
+        {
+            "level": "H3",
+            "text": "8.1.1 Disciplinary Steps",
+            "page": 79
+        },
+        {
+            "level": "H4",
+            "text": "8.1.1.1 Verbal Warning",
+            "page": 79
+        },
+        {
+            "level": "H4",
+            "text": "8.1.1.2 Written Warning",
+            "page": 80
+        },
+        {
+            "level": "H4",
+            "text": "8.1.1.3 Suspension",
+            "page": 80
+        },
+        {
+            "level": "H4",
+            "text": "8.1.1.4 Termination",
+            "page": 81
+        },
+        {
+            "level": "H3",
+            "text": "8.1.2 Documentation Requirements",
+            "page": 81
+        },
+        {
+            "level": "H4",
+            "text": "8.1.2.1 Incident Documentation",
+            "page": 82
+        },
+        {
+            "level": "H4",
+            "text": "8.1.2.2 Employee Response",
+            "page": 82
+        },
+        {
+            "level": "H2",
+            "text": "8.2 Grievance Procedures",
+            "page": 83
+        },
+        {
+            "level": "H3",
+            "text": "8.2.1 Complaint Process",
+            "page": 83
+        },
+        {
+            "level": "H4",
+            "text": "8.2.1.1 Informal Resolution",
+            "page": 84
+        },
+        {
+            "level": "H4",
+            "text": "8.2.1.2 Formal Grievance",
+            "page": 84
+        },
+        {
+            "level": "H3",
+            "text": "8.2.2 Appeal Process",
+            "page": 85
+        },
+        {
+            "level": "H4",
+            "text": "8.2.2.1 Internal Appeals",
+            "page": 85
+        },
+        {
+            "level": "H4",
+            "text": "8.2.2.2 External Mediation",
+            "page": 86
+        },
+        {
+            "level": "H1",
+            "text": "9. TERMINATION OF EMPLOYMENT",
+            "page": 86
+        },
+        {
+            "level": "H2",
+            "text": "9.1 Voluntary Termination",
+            "page": 88
+        },
+        {
+            "level": "H3",
+            "text": "9.1.1 Resignation Process",
+            "page": 88
+        },
+        {
+            "level": "H4",
+            "text": "9.1.1.1 Notice Requirements",
+            "page": 89
+        },
+        {
+            "level": "H4",
+            "text": "9.1.1.2 Exit Procedures",
+            "page": 89
+        },
+        {
+            "level": "H3",
+            "text": "9.1.2 Retirement",
+            "page": 90
+        },
+        {
+            "level": "H4",
+            "text": "9.1.2.1 Early Retirement",
+            "page": 90
+        },
+        {
+            "level": "H4",
+            "text": "9.1.2.2 Normal Retirement",
+            "page": 91
+        },
+        {
+            "level": "H2",
+            "text": "9.2 Involuntary Termination",
+            "page": 91
+        },
+        {
+            "level": "H3",
+            "text": "9.2.1 Termination for Cause",
+            "page": 92
+        },
+        {
+            "level": "H4",
+            "text": "9.2.1.1 Misconduct",
+            "page": 92
+        },
+        {
+            "level": "H4",
+            "text": "9.2.1.2 Performance Issues",
+            "page": 93
+        },
+        {
+            "level": "H3",
+            "text": "9.2.2 Layoffs and Reductions",
+            "page": 93
+        },
+        {
+            "level": "H4",
+            "text": "9.2.2.1 Selection Criteria",
+            "page": 94
+        },
+        {
+            "level": "H4",
+            "text": "9.2.2.2 Severance Benefits",
+            "page": 94
+        },
+        {
+            "level": "H1",
+            "text": "APPENDICES",
+            "page": 95
+        },
+        {
+            "level": "H2",
+            "text": "Appendix A: Emergency Procedures",
+            "page": 97
+        },
+        {
+            "level": "H2",
+            "text": "Appendix B: Organizational Chart",
+            "page": 98
+        },
+        {
+            "level": "H2",
+            "text": "Appendix C: Forms and Documents",
+            "page": 98
+        },
+        {
+            "level": "H2",
+            "text": "Appendix D: Contact Information",
+            "page": 99
+        },
+        {
+            "level": "H2",
+            "text": "Appendix E: Legal Notices",
+            "page": 99
+        }
+    ]
+}

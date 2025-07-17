@@ -1,0 +1,520 @@
+{
+    "title": "Clinical Protocol: Cardiovascular Surgery - Evidence-Based Guidelines and Best Practices",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "PROTOCOL SUMMARY",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Clinical Indication",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Evidence Level",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Implementation Guidelines",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "1. INTRODUCTION AND BACKGROUND",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "1.1 Clinical Context",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "1.1.1 Epidemiological Considerations",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "1.1.1.1 Prevalence Data",
+            "page": 6
+        },
+        {
+            "level": "H4",
+            "text": "1.1.1.2 Risk Factors",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "1.1.2 Pathophysiological Basis",
+            "page": 7
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.1 Disease Mechanisms",
+            "page": 8
+        },
+        {
+            "level": "H4",
+            "text": "1.1.2.2 Molecular Pathways",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "1.2 Literature Review",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "1.2.1 Systematic Reviews",
+            "page": 9
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.1 Meta-Analysis Results",
+            "page": 10
+        },
+        {
+            "level": "H4",
+            "text": "1.2.1.2 Quality Assessment",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "1.2.2 Clinical Trials",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.1 Randomized Controlled Trials",
+            "page": 11
+        },
+        {
+            "level": "H4",
+            "text": "1.2.2.2 Observational Studies",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "2. PATIENT SELECTION CRITERIA",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "2.1 Inclusion Criteria",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "2.1.1 Primary Indications",
+            "page": 14
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.1 Absolute Indications",
+            "page": 15
+        },
+        {
+            "level": "H4",
+            "text": "2.1.1.2 Relative Indications",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "2.1.2 Patient Characteristics",
+            "page": 16
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.1 Age Considerations",
+            "page": 16
+        },
+        {
+            "level": "H4",
+            "text": "2.1.2.2 Comorbidity Assessment",
+            "page": 17
+        },
+        {
+            "level": "H2",
+            "text": "2.2 Exclusion Criteria",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "2.2.1 Absolute Contraindications",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "2.2.2 Relative Contraindications",
+            "page": 18
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.1 High-Risk Conditions",
+            "page": 19
+        },
+        {
+            "level": "H4",
+            "text": "2.2.2.2 Alternative Therapies",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "3. PRE-PROCEDURE ASSESSMENT",
+            "page": 20
+        },
+        {
+            "level": "H2",
+            "text": "3.1 Diagnostic Evaluation",
+            "page": 22
+        },
+        {
+            "level": "H3",
+            "text": "3.1.1 Clinical Assessment",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.1 History Taking",
+            "page": 23
+        },
+        {
+            "level": "H4",
+            "text": "3.1.1.2 Physical Examination",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "3.1.2 Laboratory Testing",
+            "page": 24
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.1 Routine Laboratory Tests",
+            "page": 25
+        },
+        {
+            "level": "H4",
+            "text": "3.1.2.2 Specialized Biomarkers",
+            "page": 25
+        },
+        {
+            "level": "H3",
+            "text": "3.1.3 Imaging Studies",
+            "page": 26
+        },
+        {
+            "level": "H4",
+            "text": "3.1.3.1 Standard Imaging",
+            "page": 26
+        },
+        {
+            "level": "H4",
+            "text": "3.1.3.2 Advanced Imaging Techniques",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "3.2 Risk Stratification",
+            "page": 27
+        },
+        {
+            "level": "H3",
+            "text": "3.2.1 Risk Assessment Tools",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.1 Validated Scoring Systems",
+            "page": 28
+        },
+        {
+            "level": "H4",
+            "text": "3.2.1.2 Institutional Risk Models",
+            "page": 29
+        },
+        {
+            "level": "H3",
+            "text": "3.2.2 Multidisciplinary Review",
+            "page": 29
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.1 Team-Based Assessment",
+            "page": 30
+        },
+        {
+            "level": "H4",
+            "text": "3.2.2.2 Consensus Guidelines",
+            "page": 30
+        },
+        {
+            "level": "H1",
+            "text": "4. PROCEDURAL PROTOCOL",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "4.1 Preparation Phase",
+            "page": 32
+        },
+        {
+            "level": "H3",
+            "text": "4.1.1 Patient Preparation",
+            "page": 33
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.1 Pre-operative Instructions",
+            "page": 33
+        },
+        {
+            "level": "H4",
+            "text": "4.1.1.2 Medication Management",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "4.1.2 Equipment Preparation",
+            "page": 34
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.1 Instrumentation Check",
+            "page": 35
+        },
+        {
+            "level": "H4",
+            "text": "4.1.2.2 Safety Protocols",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "4.2 Execution Phase",
+            "page": 36
+        },
+        {
+            "level": "H3",
+            "text": "4.2.1 Standard Technique",
+            "page": 36
+        },
+        {
+            "level": "H4",
+            "text": "4.2.1.1 Step-by-Step Procedure",
+            "page": 37
+        },
+        {
+            "level": "H4",
+            "text": "4.2.1.2 Critical Decision Points",
+            "page": 37
+        },
+        {
+            "level": "H3",
+            "text": "4.2.2 Alternative Approaches",
+            "page": 38
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.1 Modified Techniques",
+            "page": 38
+        },
+        {
+            "level": "H4",
+            "text": "4.2.2.2 Salvage Procedures",
+            "page": 39
+        },
+        {
+            "level": "H2",
+            "text": "4.3 Completion Phase",
+            "page": 39
+        },
+        {
+            "level": "H3",
+            "text": "4.3.1 Quality Assurance",
+            "page": 40
+        },
+        {
+            "level": "H4",
+            "text": "4.3.1.1 Outcome Verification",
+            "page": 40
+        },
+        {
+            "level": "H4",
+            "text": "4.3.1.2 Complication Assessment",
+            "page": 41
+        },
+        {
+            "level": "H3",
+            "text": "4.3.2 Documentation",
+            "page": 41
+        },
+        {
+            "level": "H4",
+            "text": "4.3.2.1 Procedural Report",
+            "page": 42
+        },
+        {
+            "level": "H4",
+            "text": "4.3.2.2 Image Documentation",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "5. POST-PROCEDURE MANAGEMENT",
+            "page": 43
+        },
+        {
+            "level": "H2",
+            "text": "5.1 Immediate Care",
+            "page": 44
+        },
+        {
+            "level": "H3",
+            "text": "5.1.1 Recovery Protocols",
+            "page": 45
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.1 Monitoring Requirements",
+            "page": 45
+        },
+        {
+            "level": "H4",
+            "text": "5.1.1.2 Medication Administration",
+            "page": 46
+        },
+        {
+            "level": "H3",
+            "text": "5.1.2 Complication Management",
+            "page": 46
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.1 Early Complications",
+            "page": 47
+        },
+        {
+            "level": "H4",
+            "text": "5.1.2.2 Emergency Interventions",
+            "page": 47
+        },
+        {
+            "level": "H2",
+            "text": "5.2 Long-term Follow-up",
+            "page": 48
+        },
+        {
+            "level": "H3",
+            "text": "5.2.1 Surveillance Schedule",
+            "page": 48
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.1 Regular Assessments",
+            "page": 49
+        },
+        {
+            "level": "H4",
+            "text": "5.2.1.2 Imaging Follow-up",
+            "page": 49
+        },
+        {
+            "level": "H3",
+            "text": "5.2.2 Outcome Monitoring",
+            "page": 50
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.1 Clinical Endpoints",
+            "page": 50
+        },
+        {
+            "level": "H4",
+            "text": "5.2.2.2 Quality of Life Measures",
+            "page": 51
+        },
+        {
+            "level": "H1",
+            "text": "6. QUALITY ASSURANCE",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "6.1 Performance Metrics",
+            "page": 52
+        },
+        {
+            "level": "H3",
+            "text": "6.1.1 Success Rates",
+            "page": 52
+        },
+        {
+            "level": "H3",
+            "text": "6.1.2 Complication Rates",
+            "page": 53
+        },
+        {
+            "level": "H2",
+            "text": "6.2 Continuous Improvement",
+            "page": 53
+        },
+        {
+            "level": "H3",
+            "text": "6.2.1 Outcome Analysis",
+            "page": 54
+        },
+        {
+            "level": "H3",
+            "text": "6.2.2 Protocol Updates",
+            "page": 54
+        },
+        {
+            "level": "H1",
+            "text": "REFERENCES AND EVIDENCE",
+            "page": 55
+        },
+        {
+            "level": "H2",
+            "text": "Primary Literature",
+            "page": 56
+        },
+        {
+            "level": "H2",
+            "text": "Clinical Guidelines",
+            "page": 57
+        },
+        {
+            "level": "H2",
+            "text": "Expert Consensus",
+            "page": 57
+        },
+        {
+            "level": "H1",
+            "text": "APPENDICES",
+            "page": 58
+        },
+        {
+            "level": "H2",
+            "text": "Appendix A: Patient Information Sheets",
+            "page": 59
+        },
+        {
+            "level": "H2",
+            "text": "Appendix B: Consent Forms",
+            "page": 60
+        },
+        {
+            "level": "H2",
+            "text": "Appendix C: Assessment Tools",
+            "page": 60
+        },
+        {
+            "level": "H2",
+            "text": "Appendix D: Emergency Protocols",
+            "page": 61
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "generated_at": "2025-07-17T12:00:46.985057",
+    "num_documents": 20,
+    "complexity_level": "high",
+    "font_uniformity": true,
+    "documents": [
+        {
+            "id": "COMPLEX_001",
+            "title": "Engineering Manual: Biomedical Devices - Design, Implementation, and Maintenance Protocols",
+            "num_headings": 117,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_002",
+            "title": "Advanced Research in Sustainable Energy Systems: A Comprehensive Analysis of Emerging Paradigms and Future Directions",
+            "num_headings": 94,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_003",
+            "title": "Advanced Research in Computational Neuroscience: A Comprehensive Analysis of Emerging Paradigms and Future Directions",
+            "num_headings": 94,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_004",
+            "title": "Annual Financial Report: Multinational Corporation Comprehensive Analysis and Strategic Outlook",
+            "num_headings": 95,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_005",
+            "title": "Clinical Protocol: Cardiovascular Surgery - Evidence-Based Guidelines and Best Practices",
+            "num_headings": 103,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_006",
+            "title": "Advanced Research in Materials Science: Multi-Scale Computational Analysis and Experimental Validation",
+            "num_headings": 126,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_007",
+            "title": "Annual Financial Report: Global Investment Bank Comprehensive Analysis and Strategic Outlook",
+            "num_headings": 95,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_008",
+            "title": "Advanced Research in Computational Biology: Multi-Scale Computational Analysis and Experimental Validation",
+            "num_headings": 126,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_009",
+            "title": "Doctoral Thesis: Advanced Research in Computer Science - Theoretical Foundations and Empirical Applications",
+            "num_headings": 156,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_010",
+            "title": "Federal Regulation: Environmental Protection - Comprehensive Regulatory Framework and Implementation Guidelines",
+            "num_headings": 118,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_011",
+            "title": "Annual Financial Report: Multinational Corporation Comprehensive Analysis and Strategic Outlook",
+            "num_headings": 95,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_012",
+            "title": "Healthcare Organization Employee Handbook: Comprehensive Policies and Procedures Manual",
+            "num_headings": 176,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_013",
+            "title": "Advanced Research in Materials Science: Multi-Scale Computational Analysis and Experimental Validation",
+            "num_headings": 126,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_014",
+            "title": "Doctoral Thesis: Advanced Research in Environmental Engineering - Theoretical Foundations and Empirical Applications",
+            "num_headings": 156,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_015",
+            "title": "Engineering Manual: Biomedical Devices - Design, Implementation, and Maintenance Protocols",
+            "num_headings": 117,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_016",
+            "title": "Regulatory Compliance Manual: Comprehensive Legal Analysis and Implementation Guidelines",
+            "num_headings": 77,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_017",
+            "title": "Federal Regulation: Environmental Protection - Comprehensive Regulatory Framework and Implementation Guidelines",
+            "num_headings": 118,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_018",
+            "title": "Doctoral Thesis: Advanced Research in Economics - Theoretical Foundations and Empirical Applications",
+            "num_headings": 156,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_019",
+            "title": "Annual Financial Report: Multinational Corporation Comprehensive Analysis and Strategic Outlook",
+            "num_headings": 95,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        },
+        {
+            "id": "COMPLEX_020",
+            "title": "Technology Corporation Employee Handbook: Comprehensive Policies and Procedures Manual",
+            "num_headings": 176,
+            "levels": [
+                "H2",
+                "H4",
+                "H3",
+                "H1"
+            ],
+            "max_depth": 4,
+            "complexity": "high"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Market Analysis: Finance Sector Report",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Executive Summary",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Company Overview",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Mission Statement",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Core Competencies",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Market Analysis",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Industry Trends",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Competitive Landscape",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Market Opportunities",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Risk Assessment",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Proposed Solution",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Approach",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Timeline",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Phase 1: Planning",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "Phase 2: Implementation",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "Phase 3: Evaluation",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Investment Requirements",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Budget Breakdown",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "ROI Projections",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Conclusion",
+            "page": 6
+        }
+    ]
+}

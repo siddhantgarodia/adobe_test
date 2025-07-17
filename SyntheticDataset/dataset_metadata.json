@@ -1,0 +1,256 @@
+{
+    "generated_at": "2025-07-17T11:38:38.100637",
+    "num_documents": 25,
+    "documents": [
+        {
+            "id": "SYNTH_001",
+            "title": "Security Policy Document",
+            "num_headings": 22,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_002",
+            "title": "Proposal for Process Optimization Implementation",
+            "num_headings": 19,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_003",
+            "title": "Proposal for Process Optimization Implementation",
+            "num_headings": 19,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_004",
+            "title": "Annual Report: Foundation Performance",
+            "num_headings": 19,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_005",
+            "title": "System Architecture Design for Machine Learning",
+            "num_headings": 16,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_006",
+            "title": "Project Plan: Marketing Campaign Implementation",
+            "num_headings": 27,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_007",
+            "title": "Research on Quantum Computing: Current Trends and Future Directions",
+            "num_headings": 23,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_008",
+            "title": "User Manual: Mobile App v1.0",
+            "num_headings": 22,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_009",
+            "title": "Technical Specification for Software Development",
+            "num_headings": 16,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_010",
+            "title": "Research on Quantum Computing: Current Trends and Future Directions",
+            "num_headings": 23,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_011",
+            "title": "Implementation Guide: React Framework",
+            "num_headings": 16,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_012",
+            "title": "Project Plan: Research Initiative Implementation",
+            "num_headings": 27,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_013",
+            "title": "System Architecture Design for IoT",
+            "num_headings": 16,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_014",
+            "title": "Training Manual: Technical Skills Certification Program",
+            "num_headings": 27,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_015",
+            "title": "Implementation Guide: Docker Framework",
+            "num_headings": 16,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_016",
+            "title": "Market Analysis: Finance Sector Report",
+            "num_headings": 19,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_017",
+            "title": "Analysis of Optimization Effects",
+            "num_headings": 24,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_018",
+            "title": "Training Manual: Technical Skills Certification Program",
+            "num_headings": 27,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_019",
+            "title": "Training Manual: Customer Service Certification Program",
+            "num_headings": 27,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_020",
+            "title": "Research on Quantum Computing: Current Trends and Future Directions",
+            "num_headings": 23,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_021",
+            "title": "Research on Renewable Energy: Current Trends and Future Directions",
+            "num_headings": 23,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_022",
+            "title": "Security Policy Document",
+            "num_headings": 22,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_023",
+            "title": "Comparative Study: Experimental vs Standard",
+            "num_headings": 24,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_024",
+            "title": "Research on Artificial Intelligence: Current Trends and Future Directions",
+            "num_headings": 23,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        },
+        {
+            "id": "SYNTH_025",
+            "title": "Comparative Study: Deep Learning vs Standard",
+            "num_headings": 24,
+            "levels": [
+                "H3",
+                "H2",
+                "H1"
+            ]
+        }
+    ]
+}
